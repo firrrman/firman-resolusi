@@ -1,3 +1,5 @@
 nama : firman hakim
 npm : 221106042873
 tgl lahir : 11 juli 2024
+alamat : kp. gunung leutik rt 02/05
+status : pelajar
